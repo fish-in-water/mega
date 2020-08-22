@@ -13,9 +13,11 @@
 
 ## 样例
 
-百度 [http://129.211.62.240:3212/pages/examples/baidu/](http://129.211.62.240:3212/pages/examples/baidu/)
+百度 [http://129.211.62.240:3212/pages/samples/baidu/](http://129.211.62.240:3212/pages/samples/baidu/)
 
 淘宝 [http://129.211.62.240:3212/pages/samples/taobao/](http://129.211.62.240:3212/pages/samples/taobao/)
+
+
 
 
 
