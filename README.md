@@ -3,7 +3,7 @@
 
 
 
-## 视频
+## 视频 【注意广告有声音】
 
 快进版  [https://v.youku.com/v_show/id_XNDgwODk2MjczMg==.html](https://v.youku.com/v_show/id_XNDgwODk2MjczMg==.html)
 
