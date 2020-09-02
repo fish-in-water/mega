@@ -17,9 +17,9 @@
 
 淘宝 [http://129.211.62.240:3212/pages/samples/taobao/](http://129.211.62.240:3212/pages/samples/taobao/)
 
-![baidu](https://github.com/fish-in-water/mega/blob/master/assets/mega_baidu.jpeg?raw=true)
+![taobao](http://129.211.62.240:3204/api/file/download/0/20200902/9231a5d0de8a/qrcode_taobao.jpeg)
 
-![baidu](./assets/mega_taobao.jpeg)
+![taobao](http://129.211.62.240:3204/api/file/download/0/20200902/43fc3f43dcb8/mega_taobao.jpeg)
 
 
 
@@ -31,9 +31,9 @@
 
 
 
-![baidu](./assets/qrcode_baidu.jpeg)
+![baidu](http://129.211.62.240:3204/api/file/download/0/20200902/6afc5492fb6a/qrcode_baidu.jpeg)
 
-![baidu](./assets/mega_baidu.jpeg)
+![baidu](http://129.211.62.240:3204/api/file/download/0/20200902/875523291649/mega_baidu.jpeg)
 
 
 
