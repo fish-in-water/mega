@@ -17,7 +17,7 @@
 
 淘宝 [http://129.211.62.240:3212/pages/samples/taobao/](http://129.211.62.240:3212/pages/samples/taobao/)
 
-![baidu](./assets/qrcode_taobao.jpeg)
+![baidu](https://github.com/fish-in-water/mega/blob/master/assets/mega_baidu.jpeg?raw=true)
 
 ![baidu](./assets/mega_taobao.jpeg)
 
